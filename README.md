@@ -1,3 +1,5 @@
+# Akkadian Royal Inscriptions Treebank
+
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.7
 License: CC BY-SA 3.0
