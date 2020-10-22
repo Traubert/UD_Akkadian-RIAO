@@ -2,7 +2,7 @@
 
 ```
 Data available since: UD v2.7
-License: CC BY-SA 3.0
+License: CC BY-SA 4.0
 Includes text: yes
 Genre: nonfiction
 Lemmas: converted from manual
