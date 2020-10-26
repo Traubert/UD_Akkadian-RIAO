@@ -15,7 +15,7 @@ The research for this article was carried out as part of the Centre of Excellenc
 
 ## References
 
-Mikko Luukko - Aleksi Sahala - Sam Hardwick - Krister Lindén, “Akkadian Treebank for Early Neo-Assyrian Royal Inscriptions”, Proceedings of the 19th International Workshop on Treebanks and Linguistic Theories (TLT), Düsseldorf 2020. (https://www.aclweb.org/anthology/2020.tlt-1.11.pdf)
+Mikko Luukko, Aleksi Sahala, Sam Hardwick, Krister Lindén. 2020. Akkadian Treebank for Early Neo-Assyrian Royal Inscriptions. In Proceedings of the 19th International Workshop on Treebanks and Linguistic Theories (TLT), Düsseldorf 2020. (https://www.aclweb.org/anthology/2020.tlt-1.11.pdf)
 
 
 # Changelog
