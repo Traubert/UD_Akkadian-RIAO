@@ -6,7 +6,7 @@ UD_Akkadian-RIAO treebank consists of 162 royal inscriptions of four early Neo-A
 
 # Introduction
 
-...
+UD_Akkadian-RIAO is a small treebank which consists of *** sentences. It was manually annotated following the UD annotation guidelines. 
 
 
 # Acknowledgments
