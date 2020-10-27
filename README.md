@@ -1,7 +1,7 @@
 # Akkadian Royal Inscriptions Treebank
 
 # Summary
-This treebank consists of 162 royal inscriptions of four early Neo-Assyrian kings: Aššur-dan II (r. 934–912 BCE), Adad-nerari II (r. 911–891 BCE), Tukulti-Ninurta II (r. 890–884 BCE) and Ashurnasirpal II (r. 883–859 BCE). Their inscriptions were published by A. Kirk Grayson in his 1991 volume Assyrian Rulers of the Early First Millennium B.C. I (1114 – 859 B.C.) (Royal Inscriptions of Mesopotamia, Assyrian Periods, 2). University of Toronto Press, Toronto.
+UD_Akkadian-RIAO treebank consists of 162 royal inscriptions of four early Neo-Assyrian kings: Aššur-dan II (r. 934–912 BCE), Adad-nerari II (r. 911–891 BCE), Tukulti-Ninurta II (r. 890–884 BCE) and Ashurnasirpal II (r. 883–859 BCE). Their inscriptions were published by A. Kirk Grayson in his 1991 volume Assyrian Rulers of the Early First Millennium B.C. I (1114 – 859 B.C.) (Royal Inscriptions of Mesopotamia, Assyrian Periods, 2). University of Toronto Press, Toronto.
 
 
 # Introduction
