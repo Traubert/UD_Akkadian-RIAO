@@ -6,7 +6,7 @@ UD_Akkadian-RIAO treebank consists of 162 royal inscriptions of four early Neo-A
 
 # Introduction
 
-UD_Akkadian-RIAO is a small treebank which consists of *** sentences. It was manually annotated following the UD annotation guidelines. 
+UD_Akkadian-RIAO is a small treebank which consists of 22 277 words and 1845 sentences. This represents an intact subset of a total of 2211 sentences from the early Neo-Assyrian royal inscriptions  of the tenth and ninth centuries BCE. The language of the corpus is Standard Babylonian, with occasional Assyrianisms, whereas “Akkadian” is the umbrella term for both Assyrian and Babylonian. The treebank was manually annotated following the UD annotation guidelines.
 
 
 # Acknowledgments
