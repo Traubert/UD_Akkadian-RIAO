@@ -11,7 +11,7 @@ This treebank consists of 162 royal inscriptions of four early Neo-Assyrian king
 
 # Acknowledgments
 
-The research for this article was carried out as part of the Centre of Excellence in Ancient Near Eastern Empires (ANEE) in cooperation with FIN-CLARIN and the Language Bank of Finland, taking place in Helsinki, and funded by the Academy of Finland. We would like to thank Niek Veldhuis (Berkeley), the initiator of the project, and David Bamman (Berkeley), who helped in setting up the first attempt for annotation on the Brat rapid annotation tool. For making this project possible, we are also indebted to Karen Radner, Jamie Novotny and Nathan Morello (all three LMU, Munich) and to Grant Frame and Steve Tinney (both UPenn, Philadelphia).
+This treebank was carried out as part of the Centre of Excellence in Ancient Near Eastern Empires (ANEE) in cooperation with FIN-CLARIN and the Language Bank of Finland, taking place in Helsinki, and funded by the Academy of Finland. We would like to thank Niek Veldhuis (Berkeley), the initiator of the project, and David Bamman (Berkeley), who helped in setting up the first attempt for annotation on the Brat rapid annotation tool. For making this project possible, we are also indebted to Karen Radner, Jamie Novotny and Nathan Morello (all three LMU, Munich) and to Grant Frame and Steve Tinney (both UPenn, Philadelphia).
 
 ## References
 
