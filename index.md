@@ -19,7 +19,8 @@ udver: '2'
 
 ### Tags
 
-* `In this Akkadian treebank, 13 universal tags have been used. The tags AUX, INTJ, PUNCT, SYM are not used.`
+* `In this Akkadian treebank, 13 universal tags have been used.` 
+* `The tags AUX, INTJ, PUNCT, SYM are not used.`
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
@@ -45,11 +46,11 @@ udver: '2'
 ### Relations Overview
 * `The following relation main types are not used in this treebank: aux, clf, compound, cop, dislocated, expl, flat, orphan, punct, reparandum.`
 * `The following relation subtypes are used in Akkadian:`
-** `acl:relcl for relative clauses`
-** `advmod:emph for the particle lū in its asseverative function`
-** `advmod:neg for the negation particles lā "not" and ul "not"`
-** `det:poss for possessive determiners`
-** `nmod:poss for the construct state`
++ `acl:relcl for relative clauses`
++ `advmod:emph for the particle lū in its asseverative function`
++ `advmod:neg for the negation particles lā "not" and ul "not"`
++ `det:poss for possessive determiners`
++ `nmod:poss for the construct state`
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
 
