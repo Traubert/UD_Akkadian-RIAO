@@ -8,7 +8,7 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* `Words are only exceptionally delimited by whitespace or punctuation in the original cuneiform texts. Thus, this treebank is based on the bound transcription (normalized text)`
+* Words are only exceptionally delimited by whitespace or punctuation in the original cuneiform texts. Thus, this treebank is based on the bound transcription (normalized text)
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
@@ -41,13 +41,13 @@ udver: '2'
 ## Syntax
 
 ### Core Arguments, Oblique Arguments and Adjuncts
-* `Nominal subject is in the nominative case without an adposition.`
+* Nominal subject is in the nominative case without an adposition.
 
 ### Relations Overview
 * `The following relation main types are not used in this treebank: aux, clf, compound, cop, dislocated, expl, flat, orphan, punct, reparandum.`
 * `The following relation subtypes are used in Akkadian:`
 - `acl:relcl for relative clauses`
-- `advmod:emph for the particle <em>lū</em> in its asseverative function`
+- `advmod:emph for the particle lū in its asseverative function`
 - `advmod:neg for the negation particles lā and ul`
 - `det:poss for possessive determiners`
 - `nmod:poss for the construct state`
