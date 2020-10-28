@@ -8,7 +8,7 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+*Words are only exceptionally delimited by whitespace or punctuation in the original cuneiform texts. Thus, this treebank is based on the bound transcription (normalized text)
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
@@ -19,8 +19,8 @@ udver: '2'
 
 ### Tags
 
-*
-
+*In this Akkadian treebank, 13 universal tags have been used.
+*The tags AUX, INTJ, PUNCT, SYM are not used.
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
@@ -28,7 +28,7 @@ udver: '2'
 
 ### Features
 
-*
+*Number has 2 possible values: Sing and Plur.
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
