@@ -47,8 +47,8 @@ udver: '2'
 * `The following relation main types are not used in this treebank: aux, clf, compound, cop, dislocated, expl, flat, orphan, punct, reparandum.`
 * `The following relation subtypes are used in Akkadian:`
 - `acl:relcl for relative clauses`
-- `advmod:emph for the particle _lū_ in its asseverative function`
-- `advmod:neg for the negation particles _lā_ and _ul_`
+- `advmod:emph for the particle*lū*in its asseverative function`
+- `advmod:neg for the negation particles*lā*and*ul*`
 - `det:poss for possessive determiners`
 - `nmod:poss for the construct state`
 ---
