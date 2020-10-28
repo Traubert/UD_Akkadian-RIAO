@@ -1,12 +1,12 @@
 # Akkadian Royal Inscriptions Treebank
 
 # Summary
-UD_Akkadian-RIAO treebank consists of 162 royal inscriptions of four early Neo-Assyrian kings: Aššur-dan II (r. 934–912 BCE), Adad-nerari II (r. 911–891 BCE), Tukulti-Ninurta II (r. 890–884 BCE) and Ashurnasirpal II (r. 883–859 BCE). Their inscriptions were published by A. Kirk Grayson in his 1991 volume Assyrian Rulers of the Early First Millennium B.C. I (1114 – 859 B.C.) (Royal Inscriptions of Mesopotamia, Assyrian Periods, 2). University of Toronto Press, Toronto. These royal inscriptions were extracted from Oracc (Open Richly Annotated Cuneiform Corpus; http://oracc.museum.upenn.edu/riao/), where all Neo-Assyrian royal inscriptions are lemmatized word-for-word.
+UD_Akkadian-RIAO treebank consists of 162 royal inscriptions of four early Neo-Assyrian kings: Aššur-dan II (r. 934–912 BCE), Adad-nerari II (r. 911–891 BCE), Tukulti-Ninurta II (r. 890–884 BCE) and Ashurnasirpal II (r. 883–859 BCE). Their inscriptions were published by A. Kirk Grayson in his 1991 volume Assyrian Rulers of the Early First Millennium B.C. I (1114 – 859 B.C.) (Royal Inscriptions of Mesopotamia, Assyrian Periods, 2). University of Toronto Press, Toronto.
 
 
 # Introduction
 
-UD_Akkadian-RIAO is a small treebank which consists of 22 277 words and 1845 sentences. This represents an intact subset of a total of 2211 sentences from the early Neo-Assyrian royal inscriptions  of the tenth and ninth centuries BCE. The language of the corpus is Standard Babylonian, with occasional Assyrianisms, whereas “Akkadian” is the umbrella term for both Assyrian and Babylonian. The treebank was manually annotated following the UD annotation guidelines.
+UD_Akkadian-RIAO is a small treebank which consists of 22 277 words and 1845 sentences. This represents an intact subset of a total of 2211 sentences from the early Neo-Assyrian royal inscriptions  of the tenth and ninth centuries BCE. These royal inscriptions were extracted from Oracc (Open Richly Annotated Cuneiform Corpus; http://oracc.museum.upenn.edu/riao/), where all Neo-Assyrian royal inscriptions are lemmatized word-for-word. The language of the corpus is Standard Babylonian, with occasional Assyrianisms, whereas “Akkadian” is the umbrella term for both Assyrian and Babylonian. The treebank was manually annotated following the UD annotation guidelines.
 
 
 # Acknowledgments
