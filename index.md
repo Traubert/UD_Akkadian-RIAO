@@ -16,10 +16,8 @@ udver: '2'
 ### Tags
 
 * In this Akkadian treebank, 13 universal tags have been used. 
-* The tags AUX, INTJ, PUNCT, SYM are not used.
+* The tags [AUX](...), [INTJ](...), [PUNCT](...), [SYM](...) are not used.
 * The words tagged [PART](...) are the emphatic *lū*, the quotation particle *mā*, the clitics *ma* and *ni*, and the negation particles *lā* and *ul*.
----
-**Instruction**: Describe how the DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
 ### Nominal Features
 
@@ -31,8 +29,6 @@ udver: '2'
 
 * Verbs inflect for [Gender](...), [Number](...), [Person](...), [Tense](...) and [Mood](...).
 * In this treebank, mood has 4 possible values: Ind, Imp, Precative, Prohibitive.
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
 
 ## Syntax
 
@@ -51,8 +47,6 @@ udver: '2'
   * [advmod:neg](...) for the negation particles *lā* and *ul*
   * [det:poss](...) for possessive determiners
   * [nmod:poss](...) for the construct state
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects).
 
 ## Treebanks
 
