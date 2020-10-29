@@ -23,18 +23,21 @@ udver: '2'
 
 ### Nominal Features
 
-* Nominal words ([NOUN](...), [PROPN](...) and [PRON](...)) and adjectives ([ADJ](...)) have an inherent Gender feature with values Masc or Fem.
+* Nominal words ([NOUN](...), [PROPN](...) and [PRON](...)) and adjectives ([ADJ](...)) have an inherent [Gender](...) feature with values Masc or Fem.
 * Number has 2 possible values: Sing and Plur.
 * [Case](...) has 3 possible values: Nom, Gen, Acc.
 
 ### Verbal Features
 
 * Verbs inflect for [Gender](...), [Number](...), [Person](...), [Tense](...) and [Mood](...).
-* In this treebank, mood has 4 possible values: Ind(icative), Imp(erative), Precative, Prohibitive.
+* In this treebank, mood has 4 possible values: Ind, Imp, Precative, Prohibitive.
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
 
 ## Syntax
+
+### Word Order
+* The usual word order in Akkadian is SOV, but there are many exceptions to this generalization.
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 * Nominal subject is in the nominative case without an adposition.
