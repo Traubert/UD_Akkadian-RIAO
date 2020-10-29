@@ -41,17 +41,18 @@ udver: '2'
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 * Nominal subject is in the nominative case without an adposition.
+* Prepositional objects are considered oblique.
 
 ### Relations Overview
-* The following relation main types are not used in this treebank: aux, clf, compound, cop, dislocated, expl, flat, orphan, punct, reparandum.
+* The following relation main types are not used in this treebank: [aux](...), [clf](...), [compound](...), [cop](...), [dislocated](...), [expl](...), [flat](...), [orphan](...), [punct](...), [reparandum](...).
 * The following relation subtypes are used in Akkadian:
-  * acl:relcl for relative clauses
-  * advmod:emph for the particle *lū* in its asseverative function
-  * advmod:neg for the negation particles *lā* and *ul*
-  * det:poss for possessive determiners
-  * nmod:poss for the construct state
+  * [acl:relcl](...) for relative clauses
+  * [advmod:emph](...) for the particle *lū* in its asseverative function
+  * [advmod:neg](...) for the negation particles *lā* and *ul*
+  * [det:poss](...) for possessive determiners
+  * [nmod:poss](...) for the construct state
 ---
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. Include links to language-specific relations definitions if any.
+**Instruction**: Give criteria for identifying core arguments (subjects and objects).
 
 ## Treebanks
 
