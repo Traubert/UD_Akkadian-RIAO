@@ -25,6 +25,7 @@ udver: '2'
 
 * Nominal words ([NOUN](...), [PROPN](...) and [PRON](...)) and adjectives ([ADJ](...)) have an inherent Gender feature with values Masc or Fem.
 * Number has 2 possible values: Sing and Plur.
+* [Case](...) has 3 possible values: Nom, Gen, Acc.
 
 ### Verbal Features
 
@@ -41,8 +42,8 @@ udver: '2'
 * The following relation main types are not used in this treebank: aux, clf, compound, cop, dislocated, expl, flat, orphan, punct, reparandum.
 * The following relation subtypes are used in Akkadian:
   * acl:relcl for relative clauses
-  * advmod:emph for the particle lū in its asseverative function
-  * advmod:neg for the negation particles lā and ul
+  * advmod:emph for the particle *lū* in its asseverative function
+  * advmod:neg for the negation particles *lā* and *ul*
   * det:poss for possessive determiners
   * nmod:poss for the construct state
 ---
