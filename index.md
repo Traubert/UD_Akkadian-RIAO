@@ -29,6 +29,7 @@ udver: '2'
 
 ### Verbal Features
 
+* Verbs inflect for [Gender](...), [Number](...), [Person](...), [Tense](...) and [Mood](...).
 * In this treebank, mood has 4 possible values: Ind(icative), Imp(erative), Precative, Prohibitive.
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
