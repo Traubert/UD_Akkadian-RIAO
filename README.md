@@ -29,11 +29,11 @@ Data available since: UD v2.7
 License: CC BY-SA 3.0
 Includes text: yes
 Genre: nonfiction
-Lemmas: converted from manual
-UPOS: converted from manual
+Lemmas: automatic with corrections
+UPOS: converted with corrections
 XPOS: manual native
-Features: converted from manual
-Relations: converted from manual
+Features: manual native
+Relations: manual native
 Contributors: Luukko, Mikko; Sahala, Aleksi; Hardwick, Sam; Lindén, Krister
 Contributing: elsewhere
 Contact: sam.hardwick@iki.fi
