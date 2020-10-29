@@ -8,12 +8,8 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* Words are only exceptionally delimited by whitespace or punctuation in the original cuneiform texts. Thus, this treebank is based on the bound transcription (normalized text)
-
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
+* Words are only exceptionally delimited by whitespace or punctuation in the original cuneiform texts. Thus, this treebank is based on the bound transcription (normalized text).
+* Enclitic pronouns and clitics are separated during tokenization and marked as multi-word tokens with a syntactic relation.
 
 ## Morphology
 
@@ -21,6 +17,7 @@ udver: '2'
 
 * In this Akkadian treebank, 13 universal tags have been used. 
 * The tags AUX, INTJ, PUNCT, SYM are not used.
+* The words tagged PART are the emphatic lū, the quotation particle mā, the clitics ma and ni, and the negation particles lā and ul.
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
@@ -28,6 +25,7 @@ udver: '2'
 
 ### Nominal Features
 
+* Nominal words (NOUN, PROPN and PRON) and adjectives (ADJ) have an inherent Gender feature with values Masc or Fem.
 * Number has 2 possible values: Sing and Plur.
 
 ### Verbal Features
