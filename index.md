@@ -29,10 +29,10 @@ For nouns, adjectives and non-finite verbal forms the subcategories are:
 * [Number](...) has 2 possible values: Sing, Plur
 * [Gender](...) has 2 possible values: Masc, Fem
 * [Base](...), which can have four different values:
-a) free (status rectus),
-b) bound (status constructus),
-c) suffixal (followed by pronominal suffixes) and
-d) terminal (status absolutus). 
+  * free (status rectus),
+  * bound (status constructus),
+  * suffixal (followed by pronominal suffixes) and
+  * terminal (status absolutus). 
 
 
 ### Verbal Features
