@@ -17,7 +17,6 @@ udver: '2'
 ### Tags
 
 * In [RIAO](../treebanks/akk_RIAO/index.html), 13 universal tags have been used. 
-* The tags AUX, INTJ, PUNCT, SYM were not used.
 * The tags [AUX](...), [INTJ](...), [PUNCT](...), [SYM](...) are not used.
 * The words tagged [PART](...) are the emphatic *lū*, the quotation particle *mā*, the clitics *ma* and *ni*, and the negation particles *lā* and *ul*.
 
