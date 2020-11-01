@@ -10,21 +10,14 @@ udver: '2'
 
 * Words are only exceptionally delimited by whitespace or punctuation in the original cuneiform texts. Thus, this treebank is based on the bound transcription (normalized text)
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
+* In [RIAO](../treebanks/akk_RIAO/index.html), sentence boundaries were arrived at by syntactically annotating the unsegmented corpus, and identifying words that are head words but are not themselves dependents of other words. The separate trees produced this way were considered to be separate sentences.
 
 ## Morphology
 
 ### Tags
 
-* In this Akkadian treebank, 13 universal tags have been used. 
-* The tags AUX, INTJ, PUNCT, SYM are not used.
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+* In [RIAO](../treebanks/akk_RIAO/index.html), 13 universal tags have been used. 
+* The tags AUX, INTJ, PUNCT, SYM were not used.
 
 ### Nominal Features
 
@@ -32,18 +25,33 @@ udver: '2'
 
 ### Verbal Features
 
-* In this treebank, mood has 4 possible values: Ind(icative), Imp(erative), Precative, Prohibitive.
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
+In [RIAO](../treebanks/akk_RIAO/index.html), the following subcategories of verbs are annotated:
+* finiteness (finite, infinitive, stative),
+* stem (G, D, Š, N etc.),
+* mood (indicative, imperative, precative, prohibitive),
+* tense (present, preterite, perfect), person (1, 2, 3),
+* number (singular, plural) and
+* gender (masculine, feminine).
+Following Streck (2011: 363), we consider subordinative and ventive as subcategories of their own, which we tag as boolean values. For nouns, adjectives and non-finite verbal forms the subcategories are:
+* case (nominative, accusative, genitive),
+* number (as above),
+* gender (as above) and
+* base, which can have four different values:
+a) free (status rectus),
+b) bound (status constructus),
+c) suffixal (followed by pronominal suffixes) and
+d) terminal (status absolutus). 
 
 ## Syntax
 
+### Word order
+For the most part, Akkadian word order is SOV structure.
+
 ### Core Arguments, Oblique Arguments and Adjuncts
-* Nominal subject is in the nominative case without an adposition.
+* Nominal subjects are in the nominative case without an adposition.
 
 ### Relations Overview
+
 * The following relation main types are not used in this treebank: aux, clf, compound, cop, dislocated, expl, flat, orphan, punct, reparandum.
 * The following relation subtypes are used in Akkadian:
   * acl:relcl for relative clauses
@@ -51,21 +59,10 @@ udver: '2'
   * advmod:neg for the negation particles lā and ul
   * det:poss for possessive determiners
   * nmod:poss for the construct state
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 
-There are 2 (../treebanks/LCODE-comparison.html) Akkadian UD treebanks:
+There are [2](../treebanks/akk-comparison.html) Akkadian UD treebanks:
 
-  * [Akkadian-PISANDUB](../treebanks/LCODE_a/index.html)
-  * [Akkadian-RIAO](../treebanks/LCODE_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [PISANDUB](../treebanks/akk_PISANDUB/index.html)
+  * [RIAO](../treebanks/akk_RIAO/index.html)
