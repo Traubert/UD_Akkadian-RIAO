@@ -49,7 +49,7 @@ d) terminal (status absolutus).
 ## Syntax
 
 ### Word order
-For the most part, Akkadian word order is SOV structure.
+For the most part, Akkadian word order is SOV.
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 * Nominal subjects are in the nominative case without an adposition.
