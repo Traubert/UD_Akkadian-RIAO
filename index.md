@@ -23,28 +23,30 @@ udver: '2'
 
 ### Nominal Features
 
-* Nominal words ([NOUN](...), [PROPN](...) and [PRON](...)) and adjectives ([ADJ](...)) have an inherent [Gender](...) feature with values Masc or Fem.
-* Number has 2 possible values: Sing and Plur.
-* [Case](...) has 3 possible values: Nom, Gen, Acc.
+* Nominal words are ([NOUN](...), [PROPN](...) and [PRON](...)) and adjectives ([ADJ](...))
 
-### Verbal Features
-
-In [RIAO](../treebanks/akk_RIAO/index.html), the following subcategories of verbs are annotated:
-* finiteness (finite, infinitive, stative),
-* stem (G, D, Š, N etc.),
-* mood (indicative, imperative, precative, prohibitive),
-* tense (present, preterite, perfect), person (1, 2, 3),
-* number (singular, plural) and
-* gender (masculine, feminine).
-Following Streck (2011: 363), we consider subordinative and ventive as subcategories of their own, which we tag as boolean values. For nouns, adjectives and non-finite verbal forms the subcategories are:
-* case (nominative, accusative, genitive),
-* number (as above),
-* gender (as above) and
-* base, which can have four different values:
+For nouns, adjectives and non-finite verbal forms the subcategories are:
+* [Case](...) has 3 possible values: Nom, Gen, Acc
+* [Number](...) has 2 possible values: Sing, Plur
+* [Gender](...) has 2 possible values: Masc, Fem
+* [Base](...), which can have four different values:
 a) free (status rectus),
 b) bound (status constructus),
 c) suffixal (followed by pronominal suffixes) and
 d) terminal (status absolutus). 
+
+
+### Verbal Features
+
+In [RIAO](../treebanks/akk_RIAO/index.html), the following subcategories of verbs are annotated:
+* Finiteness (Finite, Infinitive, Stative),
+* Stem (G, D, Š, N, etc.),
+* Mood (Indicative, Imperative, Precative, Prohibitive),
+* Tense (Present, Past, Pgp), person (1, 2, 3),
+* Number (Sing, Plur) and
+* Gender (Masc, Fem).
+
+Following Streck (2011: 363), we consider subordinative and ventive as subcategories of their own, which we tag as boolean values. 
 
 ## Syntax
 
