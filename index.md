@@ -59,7 +59,7 @@ For the most part, Akkadian word order is SOV.
 
 ### Relations Overview
 
-* The following relation main types are not used in [RIAO](../treebanks/akk_RIAO/index.html): aux, clf, compound, cop, dislocated, expl, flat, orphan, punct, reparandum.
+* The following relation main types are not used in [RIAO](../treebanks/akk_RIAO/index.html): aux, clf, compound, dislocated, expl, flat, orphan, punct, reparandum.
 * The following relation subtypes are used in Akkadian:
   * acl:relcl for relative clauses
   * advmod:emph for the particle *lū* in its asseverative function
