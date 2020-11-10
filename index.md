@@ -17,18 +17,18 @@ udver: '2'
 ### Tags
 
 * In [RIAO](../treebanks/akk_RIAO/index.html), 13 universal tags have been used. 
-* The tags [AUX](...), [INTJ](...)](...), [PUNCT](...), [SYM](...) were not used.
-* The words tagged [PART](...) are the emphatic *lū*, the quotaton paricle *mā*, the clitics *ma* and *ni*, and the negation particles *lā* and *ul*.
-* The tag [DET](...) is used for the personal pronouns *šī*, *šū*, *šâtu*, *šuāti/u*, *šâtunu*, *šuātunu* when they modify the meaning of a noun; for the quantifiers *gabbu*, *kalāma* and *kalû*; for the demonstratives *ammiu* “that” and *annû* “this” and for the indefinite pronoun *mimma* “anything”. The tag [PRON](...) is reserved for independent personal pronouns, including oblique forms (*yâši*, *šuāšu*) and possessives, as well as pronominal suffixes; for the relative pronoun *ša* “which, who”; for *ammar* in its function as a relative pronoun; for the indefinite pronoun *mamma(n)* “somebody” and the interrogatives *mannu* “who?” and *mīnu* “what?”
+* The tags AUX, INTJ, PUNCT and SYM were not used.
+* The words tagged PART are the emphatic *lū*, the quotaton paricle *mā*, the clitics *ma* and *ni*, and the negation particles *lā* and *ul*.
+* The tag DET is used for the personal pronouns *šī*, *šū*, *šâtu*, *šuāti/u*, *šâtunu*, *šuātunu* when they modify the meaning of a noun; for the quantifiers *gabbu*, *kalāma* and *kalû*; for the demonstratives *ammiu* "that" and *annû* "this" and for the indefinite pronoun *mimma* "anything". The tag PRON is reserved for independent personal pronouns, including oblique forms (*yâši*, *šuāšu*) and possessives, as well as pronominal suffixes; for the relative pronoun *ša* "which, who"; for *ammar* in its function as a relative pronoun; for the indefinite pronoun *mamma(n)* "somebody" and the interrogatives *mannu* "who?" and *mīnu* "what?"
 
 ### Nominal Features
 
-* Nominal words ([NOUN](...), [PROPN](...) and [PRON](...)), adjectives ([ADJ](...)) and non-finite verbal forms have the subcategories:  
+* Nominal words (NOUN, PROPN and PRON), adjectives (ADJ) and non-finite verbal forms have the subcategories:
 
-* [Case](...) with 3 possible values (nominative, accusative, genitive).
-* [Number](...) with 2 possible values (singular, plural).
-* [Gender](...) with 2 possible values (masculine, feminine).
-* [Base](...), which can have four different values:
+* [Case](https://universaldependencies.org/u/feat/Case.html) with 3 possible values (nominative, accusative, genitive).
+* [Number](https://universaldependencies.org/u/feat/Number.html) with 2 possible values (singular, plural).
+* [Gender](https://universaldependencies.org/u/feat/Gender.html) with 2 possible values (masculine, feminine).
+* Base, which can have four different values:
   * free (status rectus),
   * bound (status constructus),
   * suffixal (followed by pronominal suffixes) and
